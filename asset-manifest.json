@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/library-test-task/static/js/main.ed036ca3.js",
+    "index.html": "/library-test-task/index.html",
+    "main.ed036ca3.js.map": "/library-test-task/static/js/main.ed036ca3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed036ca3.js"
+  ]
+}
